@@ -1,0 +1,42 @@
+/********************
+FONTS
+*******************/
+
+
+
+/********************
+TEMPLATE STYLING
+*******************/
+
+h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+li {
+	border: 1px solid #d6d6d6;
+	border-radius: 10px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	height: 10em;
+	list-style: none;
+	margin: 2em;
+	padding: 1em;
+	text-align: center;
+	width: 10em;
+}
+
+i {
+	font-size: 6em;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+img {
+	border: 1px solid #d6d6d6;
+	border-radius: 10px;
+	padding: 1em;
+}
